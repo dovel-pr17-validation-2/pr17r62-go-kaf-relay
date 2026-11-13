@@ -5,9 +5,9 @@ go 1.24.0
 require (
 	github.com/knadh/koanf/parsers/toml v0.1.0
 	github.com/knadh/koanf/providers/file v1.2.1
-	github.com/knadh/koanf/providers/posflag v1.0.1
-	github.com/knadh/koanf/v2 v2.3.2
-	github.com/spf13/pflag v1.0.10
+	github.com/knadh/koanf/providers/posflag v1.0.2
+	github.com/knadh/koanf/v2 v2.4.1
+	github.com/spf13/pflag v1.1.0
 	github.com/twmb/franz-go v1.20.6
 	github.com/twmb/franz-go/pkg/kfake v0.0.0-20251220215110-24b7a27738c1
 	github.com/twmb/franz-go/pkg/kmsg v1.12.0
